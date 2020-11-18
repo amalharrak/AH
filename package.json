@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Thanks for the visit my Portfolio\r Template Name: AH-Portfolio\r Author: Amal Harrak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
